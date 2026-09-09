@@ -79,8 +79,7 @@
     ],
     "name:eng_x_variant":[
         "Hsin-chu",
-        "Hsinchu Hsien",
-        "Hsinchu City"
+        "Hsinchu Hsien"
     ],
     "name:epo_x_preferred":[
         "Hsin\u0109u"
@@ -121,9 +120,6 @@
     "name:ita_x_preferred":[
         "Hsinchu"
     ],
-    "name:jpn_x_preferred":[
-        "\u65b0\u7af9\u5e02"
-    ],
     "name:kan_x_preferred":[
         "\u0cb6\u0cbf\u0c82\u0c9a\u0cc1"
     ],
@@ -133,9 +129,6 @@
     "name:kor_x_preferred":[
         "\uc2e0\uc8fc\ud604"
     ],
-    "name:kor_x_variant":[
-        "\uc2e0\uc8fc\uc2dc"
-    ],
     "name:lav_x_preferred":[
         "Sji\u0146d\u017eu"
     ],
@@ -143,7 +136,7 @@
         "Sind\u017eu"
     ],
     "name:lzh_x_preferred":[
-        "\u65b0\u7af9\u5e02"
+        "\u65b0\u7af9\u7e23"
     ],
     "name:mar_x_preferred":[
         "\u0939\u094d\u0938\u093f\u0902\u091a\u0941"
@@ -212,10 +205,10 @@
         "Hsinchu"
     ],
     "name:wuu_x_preferred":[
-        "\u65b0\u7af9\u5e02"
+        "\u65b0\u7af9\u7e23"
     ],
     "name:yue_x_preferred":[
-        "\u65b0\u7af9\u5e02"
+        "\u65b0\u7af9\u7e23"
     ],
     "name:zha_x_preferred":[
         "Sinhcuz"
@@ -225,8 +218,7 @@
     ],
     "name:zho_x_variant":[
         "\u65b0\u7af9",
-        "\u65b0\u7af9\u53bf",
-        "\u65b0\u7af9\u5e02"
+        "\u65b0\u7af9\u53bf"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TWN",

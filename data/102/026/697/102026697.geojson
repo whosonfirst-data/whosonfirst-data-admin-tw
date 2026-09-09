@@ -4,22 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.000279,
-    "geom:area_square_m":3129756.503788,
-    "geom:bbox":"121.877916,24.912284,121.897719,24.930343",
-    "geom:latitude":24.921313,
-    "geom:longitude":121.887817,
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.39348,25.07777,121.39348,25.07777",
+    "geom:latitude":25.07777,
+    "geom:longitude":121.39348,
     "gn:latitude":25.07777,
     "gn:longitude":121.39348,
     "iso:country":"TW",
-    "lbl:latitude":24.921313,
-    "lbl:longitude":121.887818,
+    "lbl:latitude":25.07777,
+    "lbl:longitude":121.39348,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mps:latitude":24.921313,
-    "mps:longitude":121.887818,
+    "mps:latitude":25.07777,
+    "mps:longitude":121.39348,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Linkou"
@@ -70,9 +70,6 @@
     "name:ukr_x_preferred":[
         "\u041b\u0456\u043d\u044c\u043a\u043e\u0443"
     ],
-    "name:und_x_variant":[
-        "Hsi-lin"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0646\u06a9\u0648"
     ],
@@ -86,15 +83,11 @@
         "\u6797\u53e3"
     ],
     "name:zho_x_preferred":[
-        "Shu-lin-k\u2019ou"
+        "\u6797\u53e3\u5340"
     ],
     "name:zho_x_variant":[
-        "Lin-k\u2019ou-ts\u2019un",
-        "Hsi-lin-ts\u2019un",
         "\u6797\u53e3",
-        "Lin-k\u2019ou",
-        "\u6797\u53e3\u5340",
-        "Kending"
+        "Lin-k\u2019ou"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -106,7 +99,7 @@
     "qs:loc_lc":"1672882",
     "qs:pop":0,
     "qs:source":"Nquattroshapes",
-    "src:geom":"quattroshapes",
+    "src:geom":"geonames",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
@@ -117,19 +110,19 @@
         "wk:page":"Linkou District"
     },
     "wof:country":"TW",
-    "wof:geomhash":"ab71666fffa545b18ae1a2c79fdec220",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
-            "country_id":-1,
+            "continent_id":102191569,
+            "country_id":85632403,
             "locality_id":102026697,
-            "region_id":-1
+            "macroregion_id":1108808549,
+            "region_id":85679585
         }
     ],
     "wof:id":102026697,
     "wof:lastmodified":1690875926,
     "wof:name":"Linkou",
-    "wof:parent_id":-1,
+    "wof:parent_id":85679585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
@@ -137,10 +130,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.877916,
-    24.912284,
-    121.897719,
-    24.930343
+    121.39348,
+    25.07777,
+    121.39348,
+    25.07777
 ],
-  "geometry": {"coordinates":[[[121.88982799999999,24.912471],[121.88789800000001,24.912284],[121.885965,24.912443],[121.884103,24.912943],[121.882384,24.913764],[121.88087299999999,24.914876],[121.87963000000001,24.916235],[121.87870100000001,24.917789],[121.878122,24.919479],[121.877916,24.921239],[121.87809,24.923002],[121.878638,24.9247],[121.87953899999999,24.926268],[121.880758,24.927645],[121.882249,24.92878],[121.88395300000001,24.929627],[121.885806,24.930155],[121.887736,24.930343],[121.88967,24.930183],[121.891532,24.929683],[121.89325100000001,24.928862],[121.894762,24.92775],[121.896006,24.926391],[121.896935,24.924836],[121.897513,24.923147],[121.897719,24.921387],[121.897544,24.919624],[121.896996,24.917926],[121.896095,24.916358],[121.894876,24.91498],[121.89338499999999,24.913846],[121.89168100000001,24.912999],[121.88982799999999,24.912471]]],"type":"Polygon"}
+  "geometry": {"coordinates":[121.39348,25.07777],"type":"Point"}
 }

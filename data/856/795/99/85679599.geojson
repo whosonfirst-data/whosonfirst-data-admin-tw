@@ -79,14 +79,10 @@
         "\u30c1\u30e3\u30a4\u30fc"
     ],
     "name:jpn_x_variant":[
-        "\u5609\u7fa9",
-        "\u5609\u7fa9\u5e02"
+        "\u5609\u7fa9"
     ],
     "name:kor_x_preferred":[
         "\uc790\uc774\ud604"
-    ],
-    "name:kor_x_variant":[
-        "\uc790\uc774\uc2dc"
     ],
     "name:lit_x_preferred":[
         "Dziaji"
@@ -138,8 +134,7 @@
     ],
     "name:zho_x_variant":[
         "\u5609\u4e49\u53bf",
-        "\u5609\u7fa9",
-        "\u5609\u7fa9\u5e02"
+        "\u5609\u7fa9"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TWN",
