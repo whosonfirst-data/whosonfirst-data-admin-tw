@@ -74,7 +74,6 @@
         85679583,
         102191569,
         85632403,
-        1108756873,
         1108808545
     ],
     "wof:breaches":[],
@@ -92,7 +91,6 @@
             "continent_id":102191569,
             "country_id":85632403,
             "county_id":890471377,
-            "macrocounty_id":1108756873,
             "macroregion_id":1108808545,
             "region_id":85679583
         }
@@ -100,7 +98,7 @@
     "wof:id":890471377,
     "wof:lastmodified":1695886951,
     "wof:name":"Da'an",
-    "wof:parent_id":1108756873,
+    "wof:parent_id":85679583,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],

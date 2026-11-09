@@ -66,9 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108756873,
-        1108808545,
-        85679583
+        85679583,
+        1108808545
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,6 @@
         {
             "continent_id":102191569,
             "country_id":85632403,
-            "macrocounty_id":1108756873,
             "macroregion_id":1108808545,
             "neighbourhood_id":85923445,
             "region_id":85679583
