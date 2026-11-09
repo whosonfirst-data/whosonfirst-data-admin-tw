@@ -71,7 +71,7 @@
         "wk:page":"Haiduan,_Taitung"
     },
     "wof:country":"TW",
-    "wof:geomhash":"97ab3c1352e58fe6fb5dab6e5739aacf",
+    "wof:geomhash":"c8ef6940357461fab840eaf192983eb6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,5 +97,5 @@
     121.17638999999998,
     23.10167
 ],
-  "geometry": {"coordinates":[121.17638999999998,23.10167],"type":"Point"}
+  "geometry": {"coordinates":[121.17639,23.10167],"type":"Point"}
 }

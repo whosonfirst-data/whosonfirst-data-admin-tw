@@ -124,7 +124,7 @@
     "wof:concordances":{},
     "wof:country":"TW",
     "wof:created":1499131035,
-    "wof:geomhash":"01b45afe5357f60c3f1fd9f700b4fe68",
+    "wof:geomhash":"6c2486d92b43b18909b44a49c0dbf392",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -150,5 +150,5 @@
     121.465,
     25.0127777777778
 ],
-  "geometry": {"coordinates":[121.465,25.0127777777778],"type":"Point"}
+  "geometry": {"coordinates":[121.465,25.012778],"type":"Point"}
 }

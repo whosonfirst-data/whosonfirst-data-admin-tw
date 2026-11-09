@@ -68,7 +68,7 @@
         "wk:page":"Sandimen"
     },
     "wof:country":"TW",
-    "wof:geomhash":"1894d6e7ec93aaec31ba045aadf8abd2",
+    "wof:geomhash":"85909d4f651556616d19cf6c75011cf0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -94,5 +94,5 @@
     120.65167,
     22.71577000000001
 ],
-  "geometry": {"coordinates":[120.65167,22.71577000000001],"type":"Point"}
+  "geometry": {"coordinates":[120.65167,22.71577],"type":"Point"}
 }

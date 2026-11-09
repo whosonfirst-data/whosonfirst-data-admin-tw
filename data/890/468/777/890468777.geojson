@@ -102,7 +102,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053725,
-    "wof:geomhash":"f9c7ceab86695269d751e6edbdddc599",
+    "wof:geomhash":"f3d1dbba137c4e1acc25423f8e814c87",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -129,5 +129,5 @@
     121.55,
     25.0
 ],
-  "geometry": {"coordinates":[121.55,25.0],"type":"Point"}
+  "geometry": {"coordinates":[121.55,25],"type":"Point"}
 }

@@ -70,7 +70,7 @@
         "wk:page":"Tianwei"
     },
     "wof:country":"TW",
-    "wof:geomhash":"0d450112e8314f2fe3dca3cf128992d5",
+    "wof:geomhash":"508e99b97eea01f86f364f47e958a87d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     120.50388999999998,
     24.03306
 ],
-  "geometry": {"coordinates":[120.50388999999998,24.03306],"type":"Point"}
+  "geometry": {"coordinates":[120.50389,24.03306],"type":"Point"}
 }

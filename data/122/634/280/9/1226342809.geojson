@@ -78,7 +78,7 @@
         "wk:page":"Xincheng,_Hualien"
     },
     "wof:country":"TW",
-    "wof:geomhash":"093e9318788bd8559e805bbcd18c145f",
+    "wof:geomhash":"5bbc52f4dee9440469054401bfd13d0b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -105,5 +105,5 @@
     121.65134,
     24.12662000000001
 ],
-  "geometry": {"coordinates":[121.65134,24.12662000000001],"type":"Point"}
+  "geometry": {"coordinates":[121.65134,24.12662],"type":"Point"}
 }

@@ -50,7 +50,7 @@
         "gn:id":1668492
     },
     "wof:country":"TW",
-    "wof:geomhash":"4c718125e5d0a8f2899cfa5bf7b9aa90",
+    "wof:geomhash":"c2eee2a334a338e7cca1e43db8404776",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     121.05306000000002,
     24.68694
 ],
-  "geometry": {"coordinates":[121.05306000000002,24.68694],"type":"Point"}
+  "geometry": {"coordinates":[121.05306,24.68694],"type":"Point"}
 }

@@ -67,7 +67,7 @@
         "wk:page":"Sihu,_Yunlin"
     },
     "wof:country":"TW",
-    "wof:geomhash":"5bc5a351a743009d2fe74f82659b462a",
+    "wof:geomhash":"33f5d780d9255d8a6d5501251337fc76",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     120.22693999999998,
     23.63806
 ],
-  "geometry": {"coordinates":[120.22693999999998,23.63806],"type":"Point"}
+  "geometry": {"coordinates":[120.22694,23.63806],"type":"Point"}
 }

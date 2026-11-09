@@ -48,7 +48,7 @@
         "wk:page":"Sanwan,_Miaoli"
     },
     "wof:country":"TW",
-    "wof:geomhash":"2bed502436ee3ed2adbea2a238181bbb",
+    "wof:geomhash":"4ea83a793a4b7902221596c2620645d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     120.95678999999998,
     24.65384
 ],
-  "geometry": {"coordinates":[120.95678999999998,24.65384],"type":"Point"}
+  "geometry": {"coordinates":[120.95679,24.65384],"type":"Point"}
 }

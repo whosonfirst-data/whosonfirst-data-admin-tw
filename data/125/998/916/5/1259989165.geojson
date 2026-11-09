@@ -88,7 +88,7 @@
         "wk:page":"Nangan,_Lienchiang"
     },
     "wof:country":"TW",
-    "wof:geomhash":"4bb03697395cd4f51f598ceb593b42af",
+    "wof:geomhash":"067282b177dd740867ea824f55ffd041",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -114,5 +114,5 @@
     119.93283999999998,
     26.15039
 ],
-  "geometry": {"coordinates":[119.93283999999998,26.15039],"type":"Point"}
+  "geometry": {"coordinates":[119.93284,26.15039],"type":"Point"}
 }
