@@ -99,12 +99,6 @@
     "name:vie_x_variant":[
         "\u0110\u1ea1i L\u00fd"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5927\u91cc\u6eaa"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5927\u7406\u6cb3"
-    ],
     "qs:a1":"*",
     "qs:a1r":"*",
     "qs:adm0":"Taiwan",
@@ -141,7 +135,7 @@
         }
     ],
     "wof:id":102026723,
-    "wof:lastmodified":1636500714,
+    "wof:lastmodified":1794999722,
     "wof:name":"Dali",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

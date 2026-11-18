@@ -104,12 +104,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng \u00d4 Gia"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u4e4c\u52a0\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u5433\u5bb6\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u4e94\u7532"
     ],
@@ -136,7 +130,7 @@
         }
     ],
     "wof:id":1259483489,
-    "wof:lastmodified":1636500764,
+    "wof:lastmodified":1794999722,
     "wof:name":"Wujia",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
